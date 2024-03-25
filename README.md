@@ -1,16 +1,7 @@
-# workoutapp
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# HabitTracker App made in Flutter
+![image](https://github.com/ShamanErmita/HabitTracker/assets/131605405/32ed590e-bf36-4e3c-be6e-29c0ab35d4dc)
+## Description:
+### An app to track your habits every week!
+<p align="center">
+And enjoy 😀
+</p>
